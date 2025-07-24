@@ -2,7 +2,6 @@
 
 **Meal Mate** is a web-based food sharing application that connects people with extra food to those in need. It helps reduce food waste by allowing users to post available meals, browse nearby offerings, and request shared items.
 
-🔗 Live Website: [https://food-sharing-client-8354b.web.app](https://food-sharing-client-8354b.web.app)
 
 ---
 
@@ -40,3 +39,13 @@
 ```bash
 git clone https://github.com/Abir-Hasan33/Meal-Mate.git
 cd Meal-Mate
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](C:\Users\Abir Hasan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-24 235441.png)
+
+### ➕ Create a Listing
+![Post Listing](C:\Users\Abir Hasan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-24 235441.png)
+
+### 🔍 Browse Listings
+![Browse Listings](C:\Users\Abir Hasan\OneDrive\Pictures\Screenshots\Screenshot 2025-07-24 235441.png)
